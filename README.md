@@ -29,6 +29,8 @@
 ## 4. Module
 
 - Create a module, with 2 components(A and B) that have diffrent routes. The module is injected when you are on his own route
-- Navigate from A to B and from
+- Add a button on component A to navigate to B
+- Add a button to navigate from B to Z
+- Add the module route in the navbar
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/opp-team-routing)
