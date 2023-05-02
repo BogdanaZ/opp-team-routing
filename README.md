@@ -13,18 +13,23 @@
 ## 2.Components of router
 
 - Create a component where you have an example that explains:
+
   - Router
   - Route
   - Routes
   - RouterOutlet
 
+- Add that component in navbar with a route
+
 ## 3.Components of router
 
-- RouterLink
-- RouterLinkActive
-- ActivatedRoute
-- RouterState
-- RouteLink Parameters array
+- Create a component where you have an example that explains:
+  - RouterLink
+  - RouterLinkActive
+  - ActivatedRoute
+  - RouterState
+  - RouteLink Parameters array
+- Add that component in navbar with a route
 
 ## 4. Module
 
